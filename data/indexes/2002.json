@@ -1,0 +1,1274 @@
+{
+    "Air Force": [
+        "Air Force",
+        "Mountain West Conference"
+    ],
+    "Akron": [
+        "Akron",
+        "Mid-American Conference"
+    ],
+    "Alabama": [
+        "Alabama",
+        "Southeastern Conference"
+    ],
+    "Alabama A&M": [
+        "Alabama A&M",
+        "Southwest Athletic Conference"
+    ],
+    "Alabama State": [
+        "Alabama State",
+        "Southwest Athletic Conference"
+    ],
+    "Alabama-Birmingham": [
+        "Alabama-Birmingham",
+        "Conference USA"
+    ],
+    "Albany (NY)": [
+        "Albany (NY)",
+        "America East Conference"
+    ],
+    "Alcorn State": [
+        "Alcorn State",
+        "Southwest Athletic Conference"
+    ],
+    "American": [
+        "American",
+        "Patriot League"
+    ],
+    "Appalachian St.": [
+        "Appalachian State",
+        "Southern Conference"
+    ],
+    "Arizona": [
+        "Arizona",
+        "Pacific-10 Conference"
+    ],
+    "Arizona St.": [
+        "Arizona State",
+        "Pacific-10 Conference"
+    ],
+    "Arkansas": [
+        "Arkansas",
+        "Southeastern Conference"
+    ],
+    "Arkansas State": [
+        "Arkansas State",
+        "Sun Belt Conference"
+    ],
+    "Arkansas-Pine Bluff": [
+        "Arkansas-Pine Bluff",
+        "Southwest Athletic Conference"
+    ],
+    "Army": [
+        "Army",
+        "Patriot League"
+    ],
+    "Auburn": [
+        "Auburn",
+        "Southeastern Conference"
+    ],
+    "Austin Peay": [
+        "Austin Peay",
+        "Ohio Valley Conference"
+    ],
+    "Ball State": [
+        "Ball State",
+        "Mid-American Conference"
+    ],
+    "Baylor": [
+        "Baylor",
+        "Big 12 Conference"
+    ],
+    "Belmont": [
+        "Belmont",
+        "Atlantic Sun Conference"
+    ],
+    "Bethune-Cookman": [
+        "Bethune-Cookman",
+        "Mid-Eastern Athletic Conference"
+    ],
+    "Binghamton": [
+        "Binghamton",
+        "America East Conference"
+    ],
+    "Boise State": [
+        "Boise State",
+        "Western Athletic Conference"
+    ],
+    "Boston College": [
+        "Boston College",
+        "Big East Conference"
+    ],
+    "Boston University": [
+        "Boston University",
+        "America East Conference"
+    ],
+    "Bowling Green State": [
+        "Bowling Green State",
+        "Mid-American Conference"
+    ],
+    "Bradley": [
+        "Bradley",
+        "Missouri Valley Conference"
+    ],
+    "Brigham Young": [
+        "Brigham Young",
+        "Mountain West Conference"
+    ],
+    "Brown": [
+        "Brown",
+        "Ivy League"
+    ],
+    "Bucknell": [
+        "Bucknell",
+        "Patriot League"
+    ],
+    "Buffalo": [
+        "Buffalo",
+        "Mid-American Conference"
+    ],
+    "Butler": [
+        "Butler",
+        "Horizon League"
+    ],
+    "Cal Poly": [
+        "Cal Poly",
+        "Big West Conference"
+    ],
+    "Cal State Long Beach": [
+        "Cal State Long Beach",
+        "Big West Conference"
+    ],
+    "Cal State Northridge": [
+        "Cal State Northridge",
+        "Big West Conference"
+    ],
+    "Cal. St. Fullerton": [
+        "Cal State Fullerton",
+        "Big West Conference"
+    ],
+    "Campbell": [
+        "Campbell",
+        "Atlantic Sun Conference"
+    ],
+    "Canisius": [
+        "Canisius",
+        "Metro Atlantic Athletic Conference"
+    ],
+    "Central Connecticut State": [
+        "Central Connecticut State",
+        "Northeast Conference"
+    ],
+    "Central Michigan": [
+        "Central Michigan",
+        "Mid-American Conference"
+    ],
+    "Charleston": [
+        "Charleston Southern",
+        "Big South Conference"
+    ],
+    "Charlotte": [
+        "Charlotte",
+        "Conference USA"
+    ],
+    "Chattanooga": [
+        "Chattanooga",
+        "Southern Conference"
+    ],
+    "Chicago State": [
+        "Chicago State",
+        "Mid-Continent Conference"
+    ],
+    "Cincinnati": [
+        "Cincinnati",
+        "Conference USA"
+    ],
+    "Citadel": [
+        "Citadel",
+        "Southern Conference"
+    ],
+    "Clemson": [
+        "Clemson",
+        "Atlantic Coast Conference"
+    ],
+    "Cleveland St.": [
+        "Cleveland State",
+        "Horizon League"
+    ],
+    "Coastal Carolina": [
+        "Coastal Carolina",
+        "Big South Conference"
+    ],
+    "Colgate": [
+        "Colgate",
+        "Patriot League"
+    ],
+    "College of Charleston": [
+        "College of Charleston",
+        "Southern Conference"
+    ],
+    "Colorado": [
+        "Colorado",
+        "Big 12 Conference"
+    ],
+    "Colorado State": [
+        "Colorado State",
+        "Mountain West Conference"
+    ],
+    "Columbia": [
+        "Columbia",
+        "Ivy League"
+    ],
+    "Connecticut": [
+        "Connecticut",
+        "Big East Conference"
+    ],
+    "Coppin State": [
+        "Coppin State",
+        "Mid-Eastern Athletic Conference"
+    ],
+    "Cornell": [
+        "Cornell",
+        "Ivy League"
+    ],
+    "Creighton": [
+        "Creighton",
+        "Missouri Valley Conference"
+    ],
+    "Dartmouth": [
+        "Dartmouth",
+        "Ivy League"
+    ],
+    "Davidson": [
+        "Davidson",
+        "Southern Conference"
+    ],
+    "Dayton": [
+        "Dayton",
+        "Atlantic 10 Conference"
+    ],
+    "DePaul": [
+        "DePaul",
+        "Conference USA"
+    ],
+    "Delaware": [
+        "Delaware",
+        "Colonial Athletic Association"
+    ],
+    "Delaware State": [
+        "Delaware State",
+        "Mid-Eastern Athletic Conference"
+    ],
+    "Denver": [
+        "Denver",
+        "Sun Belt Conference"
+    ],
+    "Detroit Mercy": [
+        "Detroit Mercy",
+        "Horizon League"
+    ],
+    "Drake": [
+        "Drake",
+        "Missouri Valley Conference"
+    ],
+    "Drexel": [
+        "Drexel",
+        "Colonial Athletic Association"
+    ],
+    "Duke": [
+        "Duke",
+        "Atlantic Coast Conference"
+    ],
+    "Duquesne": [
+        "Duquesne",
+        "Atlantic 10 Conference"
+    ],
+    "East Carolina": [
+        "East Carolina",
+        "Conference USA"
+    ],
+    "East Tennessee State": [
+        "East Tennessee State",
+        "Southern Conference"
+    ],
+    "Eastern Illinois": [
+        "Eastern Illinois",
+        "Ohio Valley Conference"
+    ],
+    "Eastern Kentucky": [
+        "Eastern Kentucky",
+        "Ohio Valley Conference"
+    ],
+    "Eastern Michigan": [
+        "Eastern Michigan",
+        "Mid-American Conference"
+    ],
+    "Eastern Wash.": [
+        "Eastern Washington",
+        "Big Sky Conference"
+    ],
+    "Elon": [
+        "Elon",
+        "Big South Conference"
+    ],
+    "Evansville": [
+        "Evansville",
+        "Missouri Valley Conference"
+    ],
+    "Fairfield": [
+        "Fairfield",
+        "Metro Atlantic Athletic Conference"
+    ],
+    "Fairleigh Dickinson": [
+        "Fairleigh Dickinson",
+        "Northeast Conference"
+    ],
+    "Florida": [
+        "Florida",
+        "Southeastern Conference"
+    ],
+    "Florida A&M": [
+        "Florida A&M",
+        "Mid-Eastern Athletic Conference"
+    ],
+    "Florida Atlantic": [
+        "Florida Atlantic",
+        "Atlantic Sun Conference"
+    ],
+    "Florida International": [
+        "Florida International",
+        "Sun Belt Conference"
+    ],
+    "Florida St.": [
+        "Florida State",
+        "Atlantic Coast Conference"
+    ],
+    "Fordham": [
+        "Fordham",
+        "Atlantic 10 Conference"
+    ],
+    "Fresno State": [
+        "Fresno State",
+        "Western Athletic Conference"
+    ],
+    "Furman": [
+        "Furman",
+        "Southern Conference"
+    ],
+    "George Mason": [
+        "George Mason",
+        "Colonial Athletic Association"
+    ],
+    "George Washington": [
+        "George Washington",
+        "Atlantic 10 Conference"
+    ],
+    "Georgetown": [
+        "Georgetown",
+        "Big East Conference"
+    ],
+    "Georgia": [
+        "Georgia",
+        "Southeastern Conference"
+    ],
+    "Georgia Southern": [
+        "Georgia Southern",
+        "Southern Conference"
+    ],
+    "Georgia St.": [
+        "Georgia State",
+        "Atlantic Sun Conference"
+    ],
+    "Georgia Tech": [
+        "Georgia Tech",
+        "Atlantic Coast Conference"
+    ],
+    "Gonzaga": [
+        "Gonzaga",
+        "West Coast Conference"
+    ],
+    "Grambling": [
+        "Grambling",
+        "Southwest Athletic Conference"
+    ],
+    "Green Bay": [
+        "Green Bay",
+        "Horizon League"
+    ],
+    "Hampton": [
+        "Hampton",
+        "Mid-Eastern Athletic Conference"
+    ],
+    "Hartford": [
+        "Hartford",
+        "America East Conference"
+    ],
+    "Harvard": [
+        "Harvard",
+        "Ivy League"
+    ],
+    "Hawaii": [
+        "Hawaii",
+        "Western Athletic Conference"
+    ],
+    "High Point": [
+        "High Point",
+        "Big South Conference"
+    ],
+    "Hofstra": [
+        "Hofstra",
+        "Colonial Athletic Association"
+    ],
+    "Holy Cross": [
+        "Holy Cross",
+        "Patriot League"
+    ],
+    "Houston": [
+        "Houston",
+        "Conference USA"
+    ],
+    "Howard": [
+        "Howard",
+        "Mid-Eastern Athletic Conference"
+    ],
+    "IUPUI": [
+        "IUPUI",
+        "Mid-Continent Conference"
+    ],
+    "Idaho": [
+        "Idaho",
+        "Big West Conference"
+    ],
+    "Idaho State": [
+        "Idaho State",
+        "Big Sky Conference"
+    ],
+    "Illinois": [
+        "Illinois",
+        "Big Ten Conference"
+    ],
+    "Illinois State": [
+        "Illinois State",
+        "Missouri Valley Conference"
+    ],
+    "Illinois-Chicago": [
+        "Illinois-Chicago",
+        "Horizon League"
+    ],
+    "Indiana": [
+        "Indiana",
+        "Big Ten Conference"
+    ],
+    "Indiana State": [
+        "Indiana State",
+        "Missouri Valley Conference"
+    ],
+    "Iona": [
+        "Iona",
+        "Metro Atlantic Athletic Conference"
+    ],
+    "Iowa": [
+        "Iowa",
+        "Big Ten Conference"
+    ],
+    "Iowa St.": [
+        "Iowa State",
+        "Big 12 Conference"
+    ],
+    "Jackson State": [
+        "Jackson State",
+        "Southwest Athletic Conference"
+    ],
+    "Jacksonville": [
+        "Jacksonville",
+        "Atlantic Sun Conference"
+    ],
+    "Jacksonville State": [
+        "Jacksonville State",
+        "Atlantic Sun Conference"
+    ],
+    "James Madison": [
+        "James Madison",
+        "Colonial Athletic Association"
+    ],
+    "Kansas": [
+        "Kansas",
+        "Big 12 Conference"
+    ],
+    "Kansas St.": [
+        "Kansas State",
+        "Big 12 Conference"
+    ],
+    "Kent State": [
+        "Kent State",
+        "Mid-American Conference"
+    ],
+    "Kentucky": [
+        "Kentucky",
+        "Southeastern Conference"
+    ],
+    "LSU": [
+        "Louisiana State",
+        "Southeastern Conference"
+    ],
+    "La Salle": [
+        "La Salle",
+        "Atlantic 10 Conference"
+    ],
+    "Lafayette": [
+        "Lafayette",
+        "Patriot League"
+    ],
+    "Lamar": [
+        "Lamar",
+        "Southland Conference"
+    ],
+    "Lehigh": [
+        "Lehigh",
+        "Patriot League"
+    ],
+    "Liberty": [
+        "Liberty",
+        "Big South Conference"
+    ],
+    "Little Rock": [
+        "Little Rock",
+        "Sun Belt Conference"
+    ],
+    "Long Island University": [
+        "Long Island University",
+        "Northeast Conference"
+    ],
+    "Louisiana": [
+        "Louisiana",
+        "Sun Belt Conference"
+    ],
+    "Louisiana Tech": [
+        "Louisiana Tech",
+        "Western Athletic Conference"
+    ],
+    "Louisiana-Monroe": [
+        "Louisiana-Monroe",
+        "Southland Conference"
+    ],
+    "Louisville": [
+        "Louisville",
+        "Conference USA"
+    ],
+    "Loyola (MD)": [
+        "Loyola (MD)",
+        "Metro Atlantic Athletic Conference"
+    ],
+    "Loyola Marymount": [
+        "Loyola Marymount",
+        "West Coast Conference"
+    ],
+    "Loyola-Chicago": [
+        "Loyola (IL)",
+        "Horizon League"
+    ],
+    "Maine": [
+        "Maine",
+        "America East Conference"
+    ],
+    "Manhattan": [
+        "Manhattan",
+        "Metro Atlantic Athletic Conference"
+    ],
+    "Marist": [
+        "Marist",
+        "Metro Atlantic Athletic Conference"
+    ],
+    "Marquette": [
+        "Marquette",
+        "Conference USA"
+    ],
+    "Marshall": [
+        "Marshall",
+        "Mid-American Conference"
+    ],
+    "Maryland": [
+        "Maryland",
+        "Atlantic Coast Conference"
+    ],
+    "Maryland-Eastern Shore": [
+        "Maryland-Eastern Shore",
+        "Mid-Eastern Athletic Conference"
+    ],
+    "Massachusetts": [
+        "Massachusetts",
+        "Atlantic 10 Conference"
+    ],
+    "McNeese State": [
+        "McNeese State",
+        "Southland Conference"
+    ],
+    "Memphis": [
+        "Memphis",
+        "Conference USA"
+    ],
+    "Mercer": [
+        "Mercer",
+        "Atlantic Sun Conference"
+    ],
+    "Miami (FL)": [
+        "Miami (FL)",
+        "Big East Conference"
+    ],
+    "Miami (OH)": [
+        "Miami (OH)",
+        "Mid-American Conference"
+    ],
+    "Michigan": [
+        "Michigan",
+        "Big Ten Conference"
+    ],
+    "Michigan St.": [
+        "Michigan State",
+        "Big Ten Conference"
+    ],
+    "Middle Tennessee": [
+        "Middle Tennessee",
+        "Sun Belt Conference"
+    ],
+    "Milwaukee": [
+        "Milwaukee",
+        "Horizon League"
+    ],
+    "Minnesota": [
+        "Minnesota",
+        "Big Ten Conference"
+    ],
+    "Mississippi St.": [
+        "Mississippi State",
+        "Southeastern Conference"
+    ],
+    "Mississippi Valley State": [
+        "Mississippi Valley State",
+        "Southwest Athletic Conference"
+    ],
+    "Missouri": [
+        "Missouri",
+        "Big 12 Conference"
+    ],
+    "Missouri State": [
+        "Missouri State",
+        "Missouri Valley Conference"
+    ],
+    "Missouri-Kansas City": [
+        "Missouri-Kansas City",
+        "Mid-Continent Conference"
+    ],
+    "Monmouth": [
+        "Monmouth",
+        "Northeast Conference"
+    ],
+    "Montana": [
+        "Montana",
+        "Big Sky Conference"
+    ],
+    "Montana State": [
+        "Montana State",
+        "Big Sky Conference"
+    ],
+    "Morehead St.": [
+        "Morehead State",
+        "Ohio Valley Conference"
+    ],
+    "Morgan State": [
+        "Morgan State",
+        "Mid-Eastern Athletic Conference"
+    ],
+    "Mt. St. Mary's": [
+        "Mount St. Mary's",
+        "Northeast Conference"
+    ],
+    "Murray St.": [
+        "Murray State",
+        "Ohio Valley Conference"
+    ],
+    "N. Carolina": [
+        "North Carolina",
+        "Atlantic Coast Conference"
+    ],
+    "N. Texas": [
+        "North Texas",
+        "Sun Belt Conference"
+    ],
+    "NC State": [
+        "North Carolina State",
+        "Atlantic Coast Conference"
+    ],
+    "Navy": [
+        "Navy",
+        "Patriot League"
+    ],
+    "Nebraska": [
+        "Nebraska",
+        "Big 12 Conference"
+    ],
+    "Nevada": [
+        "Nevada",
+        "Western Athletic Conference"
+    ],
+    "Nevada-Las Vegas": [
+        "Nevada-Las Vegas",
+        "Mountain West Conference"
+    ],
+    "New Hampshire": [
+        "New Hampshire",
+        "America East Conference"
+    ],
+    "New Mexico": [
+        "New Mexico",
+        "Mountain West Conference"
+    ],
+    "New Mexico St.": [
+        "New Mexico State",
+        "Sun Belt Conference"
+    ],
+    "New Orleans": [
+        "New Orleans",
+        "Sun Belt Conference"
+    ],
+    "Niagara": [
+        "Niagara",
+        "Metro Atlantic Athletic Conference"
+    ],
+    "Nicholls State": [
+        "Nicholls State",
+        "Southland Conference"
+    ],
+    "Norfolk St.": [
+        "Norfolk State",
+        "Mid-Eastern Athletic Conference"
+    ],
+    "North Carolina A&T": [
+        "North Carolina A&T",
+        "Mid-Eastern Athletic Conference"
+    ],
+    "North Carolina-Asheville": [
+        "North Carolina-Asheville",
+        "Big South Conference"
+    ],
+    "North Carolina-Wilmington": [
+        "North Carolina-Wilmington",
+        "Colonial Athletic Association"
+    ],
+    "Northeastern": [
+        "Northeastern",
+        "America East Conference"
+    ],
+    "Northern Arizona": [
+        "Northern Arizona",
+        "Big Sky Conference"
+    ],
+    "Northern Illinois": [
+        "Northern Illinois",
+        "Mid-American Conference"
+    ],
+    "Northern Iowa": [
+        "Northern Iowa",
+        "Missouri Valley Conference"
+    ],
+    "Northwestern": [
+        "Northwestern",
+        "Big Ten Conference"
+    ],
+    "Northwestern State": [
+        "Northwestern State",
+        "Southland Conference"
+    ],
+    "Notre Dame": [
+        "Notre Dame",
+        "Big East Conference"
+    ],
+    "Oakland": [
+        "Oakland",
+        "Mid-Continent Conference"
+    ],
+    "Ohio": [
+        "Ohio",
+        "Mid-American Conference"
+    ],
+    "Ohio St.": [
+        "Ohio State",
+        "Big Ten Conference"
+    ],
+    "Oklahoma": [
+        "Oklahoma",
+        "Big 12 Conference"
+    ],
+    "Oklahoma St.": [
+        "Oklahoma State",
+        "Big 12 Conference"
+    ],
+    "Old Dominion": [
+        "Old Dominion",
+        "Colonial Athletic Association"
+    ],
+    "Ole Miss": [
+        "Mississippi",
+        "Southeastern Conference"
+    ],
+    "Oral Roberts": [
+        "Oral Roberts",
+        "Mid-Continent Conference"
+    ],
+    "Oregon": [
+        "Oregon",
+        "Pacific-10 Conference"
+    ],
+    "Oregon St.": [
+        "Oregon State",
+        "Pacific-10 Conference"
+    ],
+    "Pacific": [
+        "Pacific",
+        "Big West Conference"
+    ],
+    "Penn State": [
+        "Penn State",
+        "Big Ten Conference"
+    ],
+    "Pennsylvania": [
+        "Pennsylvania",
+        "Ivy League"
+    ],
+    "Pepperdine": [
+        "Pepperdine",
+        "West Coast Conference"
+    ],
+    "Pittsburgh": [
+        "Pittsburgh",
+        "Big East Conference"
+    ],
+    "Portland": [
+        "Portland",
+        "West Coast Conference"
+    ],
+    "Portland State": [
+        "Portland State",
+        "Big Sky Conference"
+    ],
+    "Prairie View": [
+        "Prairie View",
+        "Southwest Athletic Conference"
+    ],
+    "Princeton": [
+        "Princeton",
+        "Ivy League"
+    ],
+    "Providence": [
+        "Providence",
+        "Big East Conference"
+    ],
+    "Purdue": [
+        "Purdue",
+        "Big Ten Conference"
+    ],
+    "Quinnipiac": [
+        "Quinnipiac",
+        "Northeast Conference"
+    ],
+    "Radford": [
+        "Radford",
+        "Big South Conference"
+    ],
+    "Rhode Island": [
+        "Rhode Island",
+        "Atlantic 10 Conference"
+    ],
+    "Rice": [
+        "Rice",
+        "Western Athletic Conference"
+    ],
+    "Richmond": [
+        "Richmond",
+        "Atlantic 10 Conference"
+    ],
+    "Rider": [
+        "Rider",
+        "Metro Atlantic Athletic Conference"
+    ],
+    "Robert Morris": [
+        "Robert Morris",
+        "Northeast Conference"
+    ],
+    "Rutgers": [
+        "Rutgers",
+        "Big East Conference"
+    ],
+    "Sacramento State": [
+        "Sacramento State",
+        "Big Sky Conference"
+    ],
+    "Sacred Heart": [
+        "Sacred Heart",
+        "Northeast Conference"
+    ],
+    "Saint Francis (PA)": [
+        "Saint Francis (PA)",
+        "Northeast Conference"
+    ],
+    "Saint Joseph's": [
+        "Saint Joseph's",
+        "Atlantic 10 Conference"
+    ],
+    "Saint Peter's": [
+        "Saint Peter's",
+        "Metro Atlantic Athletic Conference"
+    ],
+    "Sam Houston State": [
+        "Sam Houston State",
+        "Southland Conference"
+    ],
+    "Samford": [
+        "Samford",
+        "Atlantic Sun Conference"
+    ],
+    "San Diego": [
+        "San Diego",
+        "West Coast Conference"
+    ],
+    "San Diego St.": [
+        "San Diego State",
+        "Mountain West Conference"
+    ],
+    "San Francisco": [
+        "San Francisco",
+        "West Coast Conference"
+    ],
+    "San Jose State": [
+        "San Jose State",
+        "Western Athletic Conference"
+    ],
+    "Santa Clara": [
+        "Santa Clara",
+        "West Coast Conference"
+    ],
+    "Seton Hall": [
+        "Seton Hall",
+        "Big East Conference"
+    ],
+    "Siena": [
+        "Siena",
+        "Metro Atlantic Athletic Conference"
+    ],
+    "South Alabama": [
+        "South Alabama",
+        "Sun Belt Conference"
+    ],
+    "South Carolina": [
+        "South Carolina",
+        "Southeastern Conference"
+    ],
+    "South Carolina State": [
+        "South Carolina State",
+        "Mid-Eastern Athletic Conference"
+    ],
+    "South Florida": [
+        "South Florida",
+        "Conference USA"
+    ],
+    "Southeast Missouri State": [
+        "Southeast Missouri State",
+        "Ohio Valley Conference"
+    ],
+    "Southeastern Louisiana": [
+        "Southeastern Louisiana",
+        "Southland Conference"
+    ],
+    "Southern": [
+        "Southern",
+        "Southwest Athletic Conference"
+    ],
+    "Southern Illinois": [
+        "Southern Illinois",
+        "Missouri Valley Conference"
+    ],
+    "Southern Methodist": [
+        "Southern Methodist",
+        "Western Athletic Conference"
+    ],
+    "Southern Mississippi": [
+        "Southern Mississippi",
+        "Conference USA"
+    ],
+    "Southern Utah": [
+        "Southern Utah",
+        "Mid-Continent Conference"
+    ],
+    "St. Bonaventure": [
+        "St. Bonaventure",
+        "Atlantic 10 Conference"
+    ],
+    "St. Francis (NY)": [
+        "St. Francis (NY)",
+        "Northeast Conference"
+    ],
+    "St. John's (NY)": [
+        "St. John's (NY)",
+        "Big East Conference"
+    ],
+    "St. Louis": [
+        "Saint Louis",
+        "Conference USA"
+    ],
+    "St. Mary's (CA)": [
+        "Saint Mary's (CA)",
+        "West Coast Conference"
+    ],
+    "Stanford": [
+        "Stanford",
+        "Pacific-10 Conference"
+    ],
+    "Stephen F. Austin": [
+        "Stephen F. Austin",
+        "Southland Conference"
+    ],
+    "Stetson": [
+        "Stetson",
+        "Atlantic Sun Conference"
+    ],
+    "Stony Brook": [
+        "Stony Brook",
+        "America East Conference"
+    ],
+    "Syracuse": [
+        "Syracuse",
+        "Big East Conference"
+    ],
+    "TCU": [
+        "Texas Christian",
+        "Conference USA"
+    ],
+    "Temple": [
+        "Temple",
+        "Atlantic 10 Conference"
+    ],
+    "Tennessee": [
+        "Tennessee",
+        "Southeastern Conference"
+    ],
+    "Tennessee State": [
+        "Tennessee State",
+        "Ohio Valley Conference"
+    ],
+    "Tennessee Tech": [
+        "Tennessee Tech",
+        "Ohio Valley Conference"
+    ],
+    "Tennessee-Martin": [
+        "Tennessee-Martin",
+        "Ohio Valley Conference"
+    ],
+    "Tex. Southern": [
+        "Texas Southern",
+        "Southwest Athletic Conference"
+    ],
+    "Texas": [
+        "Texas",
+        "Big 12 Conference"
+    ],
+    "Texas A&M": [
+        "Texas A&M",
+        "Big 12 Conference"
+    ],
+    "Texas State": [
+        "Texas State",
+        "Southland Conference"
+    ],
+    "Texas Tech": [
+        "Texas Tech",
+        "Big 12 Conference"
+    ],
+    "Texas-Arlington": [
+        "Texas-Arlington",
+        "Southland Conference"
+    ],
+    "Texas-El Paso": [
+        "Texas-El Paso",
+        "Western Athletic Conference"
+    ],
+    "Texas-San Antonio": [
+        "Texas-San Antonio",
+        "Southland Conference"
+    ],
+    "Toledo": [
+        "Toledo",
+        "Mid-American Conference"
+    ],
+    "Towson": [
+        "Towson",
+        "Colonial Athletic Association"
+    ],
+    "Troy": [
+        "Troy",
+        "Atlantic Sun Conference"
+    ],
+    "Tulane": [
+        "Tulane",
+        "Conference USA"
+    ],
+    "Tulsa": [
+        "Tulsa",
+        "Western Athletic Conference"
+    ],
+    "UC Irvine": [
+        "UC-Irvine",
+        "Big West Conference"
+    ],
+    "UC Santa Barbara": [
+        "UC-Santa Barbara",
+        "Big West Conference"
+    ],
+    "UC-Riverside": [
+        "UC-Riverside",
+        "Big West Conference"
+    ],
+    "UCF": [
+        "Central Florida",
+        "Atlantic Sun Conference"
+    ],
+    "UCLA": [
+        "UCLA",
+        "Pacific-10 Conference"
+    ],
+    "UMBC": [
+        "Maryland-Baltimore County",
+        "Northeast Conference"
+    ],
+    "UNC Greensboro": [
+        "North Carolina-Greensboro",
+        "Southern Conference"
+    ],
+    "USC": [
+        "Southern California",
+        "Pacific-10 Conference"
+    ],
+    "University of California": [
+        "University of California",
+        "Pacific-10 Conference"
+    ],
+    "Utah": [
+        "Utah",
+        "Mountain West Conference"
+    ],
+    "Utah St.": [
+        "Utah State",
+        "Big West Conference"
+    ],
+    "VCU": [
+        "Virginia Commonwealth",
+        "Colonial Athletic Association"
+    ],
+    "Valparaiso": [
+        "Valparaiso",
+        "Mid-Continent Conference"
+    ],
+    "Vanderbilt": [
+        "Vanderbilt",
+        "Southeastern Conference"
+    ],
+    "Vermont": [
+        "Vermont",
+        "America East Conference"
+    ],
+    "Villanova": [
+        "Villanova",
+        "Big East Conference"
+    ],
+    "Virginia": [
+        "Virginia",
+        "Atlantic Coast Conference"
+    ],
+    "Virginia Military Institute": [
+        "Virginia Military Institute",
+        "Southern Conference"
+    ],
+    "Virginia Tech": [
+        "Virginia Tech",
+        "Big East Conference"
+    ],
+    "W. Virginia": [
+        "West Virginia",
+        "Big East Conference"
+    ],
+    "Wagner": [
+        "Wagner",
+        "Northeast Conference"
+    ],
+    "Wake Forest": [
+        "Wake Forest",
+        "Atlantic Coast Conference"
+    ],
+    "Washington": [
+        "Washington",
+        "Pacific-10 Conference"
+    ],
+    "Washington State": [
+        "Washington State",
+        "Pacific-10 Conference"
+    ],
+    "Weber State": [
+        "Weber State",
+        "Big Sky Conference"
+    ],
+    "Western Carolina": [
+        "Western Carolina",
+        "Southern Conference"
+    ],
+    "Western Illinois": [
+        "Western Illinois",
+        "Mid-Continent Conference"
+    ],
+    "Western Kentucky": [
+        "Western Kentucky",
+        "Sun Belt Conference"
+    ],
+    "Western Michigan": [
+        "Western Michigan",
+        "Mid-American Conference"
+    ],
+    "Wichita St.": [
+        "Wichita State",
+        "Missouri Valley Conference"
+    ],
+    "William & Mary": [
+        "William & Mary",
+        "Colonial Athletic Association"
+    ],
+    "Winthrop": [
+        "Winthrop",
+        "Big South Conference"
+    ],
+    "Wisconsin": [
+        "Wisconsin",
+        "Big Ten Conference"
+    ],
+    "Wofford": [
+        "Wofford",
+        "Southern Conference"
+    ],
+    "Wright St.": [
+        "Wright State",
+        "Horizon League"
+    ],
+    "Wyoming": [
+        "Wyoming",
+        "Mountain West Conference"
+    ],
+    "Xavier": [
+        "Xavier",
+        "Atlantic 10 Conference"
+    ],
+    "Yale": [
+        "Yale",
+        "Ivy League"
+    ],
+    "Youngstown State": [
+        "Youngstown State",
+        "Horizon League"
+    ]
+}

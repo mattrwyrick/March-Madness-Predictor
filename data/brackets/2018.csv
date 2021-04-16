@@ -1,0 +1,64 @@
+ROUND,GID,HOME,H SEED,H POINTS,AWAY,A SEED,A POINTS
+1,1,Virginia,1,54,UMBC,16,74
+1,2,Creighton,8,59,Kansas St.,9,69
+1,3,Kentucky,5,78,Davidson,12,73
+1,4,Arizona,4,68,Buffalo,13,89
+1,5,Miami (FL),6,62,Loyola-Chicago,11,64
+1,6,Tennessee,3,73,Wright St.,14,47
+1,7,Nevada,7,87 OT,Texas,10,83 OT
+1,8,Cincinnati,2,68,Georgia St.,15,53
+1,9,Xavier,1,102,Tex. Southern,16,83
+1,10,Missouri,8,54,Florida St.,9,67
+1,11,Ohio St.,5,81,S. Dakota St.,12,73
+1,12,Gonzaga,4,68,UNC Greensboro,13,64
+1,13,Houston,6,67,San Diego St.,11,65
+1,14,Michigan,3,61,Montana,14,47
+1,15,Texas A&M,7,73,Providence,10,69
+1,16,N. Carolina,2,84,Lipscomb,15,66
+1,17,Villanova,1,87,Radford,16,61
+1,18,Virginia Tech,8,83,Alabama,9,86
+1,19,W. Virginia,5,85,Murray St.,12,68
+1,20,Wichita St.,4,75,Marshall,13,81
+1,21,Florida,6,77,St. Bonaventure,11,62
+1,22,Texas Tech,3,70,Stephen F. Austin,14,60
+1,23,Arkansas,7,62,Butler,10,79
+1,24,Purdue,2,74,Cal. St. Fullerton,15,48
+1,25,Kansas,1,76,Pennsylvania,16,60
+1,26,Seton Hall,8,94,NC State,9,83
+1,27,Clemson,5,79,New Mexico St.,12,68
+1,28,Auburn,4,62,Charleston,13,58
+1,29,TCU,6,52,Syracuse,11,57
+1,30,Michigan St.,3,82,Bucknell,14,78
+1,31,Rhode Island,7,83 OT,Oklahoma,10,78 OT
+1,32,Duke,2,89,Iona,15,67
+2,1,UMBC,16,43,Kansas St.,9,50
+2,2,Kentucky,5,95,Buffalo,13,89
+2,3,Loyola-Chicago,11,63,Tennessee,3,73
+2,4,Nevada,7,75,Cincinnati,2,73
+2,5,Xavier,1,70,Florida St.,9,75
+2,6,Ohio St.,5,84,Gonzaga,4,90
+2,7,Houston,6,63,Michigan,3,64
+2,8,Texas A&M,7,86,N. Carolina,2,65
+2,9,Villanova,1,81,Alabama,9,58
+2,10,W. Virginia,5,94,Marshall,13,71
+2,11,Florida,6,66,Texas Tech,3,69
+2,12,Butler,10,73,Purdue,2,76
+2,13,Kansas,1,83,Seton Hall,8,79
+2,14,Clemson,5,84,Auburn,4,53
+2,15,Syracuse,11,55,Michigan St.,3,53
+2,16,Rhode Island,7,62,Duke,2,87
+3,1,Kansas St.,9,61,Kentucky,5,58
+3,2,Loyola-Chicago,11,69,Nevada,7,68
+3,3,Florida St.,9,75,Gonzaga,4,60
+3,4,Michigan,3,99,Texas A&M,7,72
+3,5,Villanova,1,90,W. Virginia,5,78
+3,6,Texas Tech,3,78,Purdue,2,65
+3,7,Kansas,1,80,Clemson,5,76
+3,8,Syracuse,11,65,Duke,2,69
+4,1,Kansas St.,9,62,Loyola-Chicago,11,78
+4,2,Florida St.,9,54,Michicag,3,58
+4,3,Villanova,1,71,Texas Tech,3,59
+4,4,Kansas,1,85 OT,Duke,2,81 OT
+5,1,Loyola-Chicago,11,57,Michigan,3,69
+5,2,Villanova,1,95,Kansas,1,79
+6,1,Michigan,3,62,Villanova,1,79

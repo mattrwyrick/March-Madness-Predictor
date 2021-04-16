@@ -1,0 +1,64 @@
+ROUND,GID,HOME,H SEED,H POINTS,AWAY,A SEED,A POINTS
+1,1,Duke,1,85,N. Dakota St.,16,62
+1,2,VCU,8,58,UCF,9,73
+1,3,Mississippi St.,5,76,Liberty,12,80
+1,4,Virginia Tech,4,66,St. Louis,13,52
+1,5,Maryland,6,79,Belmont,11,77
+1,6,LSU,3,79,Yale,14,74
+1,7,Louisville,7,76,Minnesota,10,86
+1,8,Michigan St.,2,76,Bradley,15,65
+1,9,Gonzaga,1,87,Fairleigh Dickinson,16,49
+1,10,Syracuse,8,69,Baylor,9,78
+1,11,Marquette,5,64,Murray St.,12,83
+1,12,Florida St.,4,76,Vermont,13,69
+1,13,Buffalo,6,91,Arizona St.,11,74
+1,14,Texas Tech,3,72,Northern Ky.,14,57
+1,15,Nevada,7,61,Florida,10,70
+1,16,Michigan,2,74,Montana,15,55
+1,17,Virginia,1,71,Gardner-Webb,16,56
+1,18,Ole Miss,8,71,Oklahoma,9,95
+1,19,Wisconsin,5,54,Oregon,12,72
+1,20,Kansas St.,4,64,UC Irvine,13,70
+1,21,Villanova,6,61,St. Mary's (CA),11,57
+1,22,Purdue,3,61,Old Dominion,14,48
+1,23,Cincinnati,7,72,Iowa,10,79
+1,24,Tennessee,2,77,Colgate,15,70
+1,25,N. Carolina,1,88,Iona,16,73
+1,26,Utah St.,8,61,Washington,9,78
+1,27,Auburn,5,78,New Mexico St.,12,77
+1,28,Kansas,4,87,Northeastern,13,53
+1,29,Iowa St.,6,59,Ohio St.,11,62
+1,30,Houston,3,84,Georgia St.,14,55
+1,31,Wofford,7,84,Seton Hall,10,68
+1,32,Kentucky,2,79,Abilene Christian,15,44
+2,1,Duke,1,77,UCF,9,76
+2,2,Liberty,12,58,Virginia Tech,4,67
+2,3,Maryland,6,67,LSU,3,79
+2,4,Minnesota,10,50,Michigan St.,2,70
+2,5,Gonzaga,1,83,Baylor,9,71
+2,6,Murray St.,12,62,Florida St.,4,90
+2,7,Buffalo,6,58,Texas Tech,3,78
+2,8,Florida,10,49,Michigan,2,74
+2,9,Virginia,1,63,Oklahoma,9,51
+2,10,Oregon,12,73,UC Irvine,13,54
+2,11,Villanova,6,61,Purdue,3,87
+2,12,Iowa,10,77 OT,Tennessee,2,83 OT
+2,13,N. Carolina,1,81,Washington,9,59
+2,14,Auburn,5,89,Kansas,4,75
+2,15,Ohio St.,11,59,Houston,3,74
+2,16,Wofford,7,56,Kentucky,2,62
+3,1,Duke,1,75,Virginia Tech,4,73
+3,2,LSU,3,63,Michigan St.,2,80
+3,3,Gonzaga,1,72,Florida St.,4,58
+3,4,Texas Tech,3,63,Michigan,2,44
+3,5,Virginia,1,53,Oregon,12,49
+3,6,Purdue,3,99 OT,Tennessee,2,94 OT
+3,7,N. Carolina,1,80,Auburn,5,97
+3,8,Houston,3,58,Kentucky,2,62
+4,1,Duke,1,67,Michigan St.,2,68
+4,2,Gonzaga,1,69,Texas Tech,3,75
+4,3,Virginia,1,80 OT,Purdue,3,75
+4,4,Auburn,5,77 OT,Kentucky,2,71 OT
+5,1,Michigan St.,2,51,Texas Tech,3,61
+5,2,Virginia,1,63,Auburn,5,62
+6,1,Texas Tech,3,77 OT,Virginia,1,85 OT
