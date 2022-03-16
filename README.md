@@ -1,5 +1,7 @@
 # March-Madness-Predictor
-Simulation tool to evaluate heuristics for the NCAA Men's March Madness Tournament.
+Simulation tool to evaluate heuristics for the NCAA Men's March Madness Tournament.  
+
+Currently supports conference data back to 2001, and bracket data back to 2018.
 
 ## 2022 Predictions
 
