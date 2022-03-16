@@ -3,7 +3,7 @@ Simulation tool to evaluate heuristics for the NCAA Men's March Madness Tourname
 
 ## 2022 Predictions
 
-68% average accuracy for the 2018, 2019, and 2021.
+68% average accuracy for the 2018, 2019, and 2021 season.
 
 <i>Seed1:Seed2 RoundGame Winner beat Loser</i>
 
