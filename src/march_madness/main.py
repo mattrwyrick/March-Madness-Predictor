@@ -8,20 +8,29 @@ from march_madness.models.predictors.random import RandomPredictor
 from march_madness.models.predictors.simple import SimpleV1Predictor, SimpleV2Predictor
 
 
-years = [2018, 2019]
+years = [2018, 2019, 2021]
 predictors = [RandomPredictor, SimpleV1Predictor, SimpleV2Predictor]
 
 
 if __name__ == "__main__":
     create_team_index()
-    PrinterOverall(years, SimpleV1Predictor)
-    PrinterOverall(years, SimpleV2Predictor)
+    # PrinterOverall(years, SimpleV1Predictor)
+    # PrinterOverall(years, SimpleV2Predictor)
 
-    year = 2021
+    year = 2022
     p = SimpleV1Predictor(year)
     bracket = BracketSimulator(year, p)
     results = bracket.simulate_season()
 
+    print("\n\nBracket\n")
+    for rid in results:
+        for gid in results[rid]:
+            game = results[rid][gid]
+            team1 = game.team1
+            team2 = game.team2
+            print(f"{game.seed1}:{game.seed2} {game}")
+
+    print("\n\nUpsets\n")
     for rid in results:
         for gid in results[rid]:
             game = results[rid][gid]

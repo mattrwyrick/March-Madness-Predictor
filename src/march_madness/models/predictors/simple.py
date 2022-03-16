@@ -79,7 +79,10 @@ class SimpleV1Predictor(Predictor):
         :param game:
         :return:
         """
-        cname1 = self.index[game.team1][0]
+        try:
+            cname1 = self.index[game.team1][0]
+        except Exception as e:
+            print(e)
         conf1 = self.index[game.team1][1]
         trow_header, trow1 = load_conference_team_data(self.year, conf1, cname1)
         crow_header, crow1 = load_conference_data(self.year, conf1)
@@ -87,7 +90,11 @@ class SimpleV1Predictor(Predictor):
         conf_srs1 = crow1[6]
         points1 = trow1[8]
 
-        cname2 = self.index[game.team2][0]
+        try:
+            cname2 = self.index[game.team2][0]
+        except Exception as e:
+            print(e)
+
         conf2 = self.index[game.team2][1]
         trow_header, trow2 = load_conference_team_data(self.year, conf2, cname2)
         crow_header, crow2 = load_conference_data(self.year, conf2)
@@ -95,15 +102,15 @@ class SimpleV1Predictor(Predictor):
         conf_srs2 = crow2[6]
         points2 = trow2[8]
 
-        srs1 = float(srs1)
-        srs2 = float(srs2)
-        conf_srs1 = float(conf_srs1)
-        conf_srs2 = float(conf_srs2)
-        points1 = float(points1)
-        points2 = float(points2)
+        srs1 = float(srs1) if float(srs1) > 0 else 0
+        srs2 = float(srs2) if float(srs2) > 0 else 0
+        conf_srs1 = float(conf_srs1) if float(conf_srs1) > 0 else 0
+        conf_srs2 = float(conf_srs2) if float(conf_srs2) > 0 else 0
+        points1 = float(points1) if float(points1) > 0 else 0
+        points2 = float(points2) if float(points2) > 0 else 0
 
-        w1 = 95  # srs team
-        w2 = 5 # srs conf
+        w1 = 93  # srs team
+        w2 = 7  # srs conf
         w3 = 0  # points per game
         wt = (w1 + w2 + w3) * 1.0
 

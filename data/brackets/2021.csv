@@ -1,64 +1,64 @@
 ROUND,GID,HOME,H SEED,H POINTS,AWAY,A SEED,A POINTS
-1,1,Gonzaga,1,-1,Norfolk St./Appalachian St.,16,-1
-1,2,Oklahoma,8,-1,Missouri,9,-1
-1,3,Creighton,5,-1,UC Santa Barbara,12,-1
-1,4,Virginia,4,-1,Ohio,13,-1
-1,5,USC,6,-1,Wichita St./Drake,11,-1
-1,6,Kansas,3,-1,Eastern Wash.,14,-1
-1,7,Oregon,7,-1,VCU,10,-1
-1,8,Iowa,2,-1,Grand Canyon,15,-1
-1,9,Michigan,1,-1,Mt. St. Mary's/Tex. Southern,16,-1
-1,10,LSU,8,-1,St. Bonaventure,9,-1
-1,11,Colorado,5,-1,Georgetown,12,-1
-1,12,Florida St.,4,-1,UNC Greensboro,13,-1
-1,13,Brigham Young,6,-1,Michigan St./UCLA,11,-1
-1,14,Texas,3,-1,Abilene Christian,14,-1
-1,15,Connecticut,7,-1,Maryland,10,-1
-1,16,Alabama,2,-1,Iona,15,-1
-1,17,Baylor,1,-1,Hartford,16,-1
-1,18,N. Carolina,8,-1,Wisconsin,9,-1
-1,19,Villanova,5,-1,Winthrop,12,-1
-1,20,Purdue,4,-1,N. Texas,13,-1
-1,21,Texas Tech,6,-1,Utah St.,11,-1
-1,22,Arkansas,3,-1,Colgate,14,-1
-1,23,Florida,7,-1,Virginia Tech,10,-1
-1,24,Ohio St.,2,-1,Oral Roberts,15,-1
-1,25,Illinois,1,-1,Drexel,16,-1
-1,26,Loyola-Chicago,8,-1,Georgia Tech,9,-1
-1,27,Tennessee,5,-1,Oregon St.,12,-1
-1,28,Oklahoma St.,4,-1,Liberty,13,-1
-1,29,San Diego St.,6,-1,Syracuse,11,-1
-1,30,W. Virginia,3,-1,Morehead St.,14,-1
-1,31,Clemson,7,-1,Rutgers,10,-1
-1,32,Houston,2,-1,Cleveland St.,15,-1
-2,1,,,,,,
-2,2,,,,,,
-2,3,,,,,,
-2,4,,,,,,
-2,5,,,,,,
-2,6,,,,,,
-2,7,,,,,,
-2,8,,,,,,
-2,9,,,,,,
-2,10,,,,,,
-2,11,,,,,,
-2,12,,,,,,
-2,13,,,,,,
-2,14,,,,,,
-2,15,,,,,,
-2,16,,,,,,
-3,1,,,,,,
-3,2,,,,,,
-3,3,,,,,,
-3,4,,,,,,
-3,5,,,,,,
-3,6,,,,,,
-3,7,,,,,,
-3,8,,,,,,
-4,1,,,,,,
-4,2,,,,,,
-4,3,,,,,,
-4,4,,,,,,
-5,1,,,,,,
-5,2,,,,,,
-6,1,,,,,,
+1,1,Gonzaga,1,98,Norfolk St.,16,55
+1,2,Oklahoma,8,72,Missouri,9,68
+1,3,Creighton,5,63,UC Santa Barbara,12,62
+1,4,Virginia,4,58,Ohio,13,62
+1,5,USC,6,72,Drake,11,56
+1,6,Kansas,3,93,Eastern Wash.,14,84
+1,7,Oregon,7,70,VCU,10,60
+1,8,Iowa,2,86,Grand Canyon,15,74
+1,9,Michigan,1,82,Tex. Southern,16,66
+1,10,LSU,8,76,St. Bonaventure,9,61
+1,11,Colorado,5,96,Georgetown,12,73
+1,12,Florida St.,4,64,UNC Greensboro,13,54
+1,13,Brigham Young,6,62,UCLA,11,73
+1,14,Texas,3,52,Abilene Christian,14,53
+1,15,Connecticut,7,54,Maryland,10,63
+1,16,Alabama,2,68,Iona,15,55
+1,17,Baylor,1,79,Hartford,16,55
+1,18,N. Carolina,8,62,Wisconsin,9,85
+1,19,Villanova,5,73,Winthrop,12,63
+1,20,Purdue,4,69,N. Texas,13,78
+1,21,Texas Tech,6,65,Utah St.,11,53
+1,22,Arkansas,3,85,Colgate,14,68
+1,23,Florida,7,75,Virginia Tech,10,70
+1,24,Ohio St.,2,72,Oral Roberts,15,75
+1,25,Illinois,1,78,Drexel,16,49
+1,26,Loyola-Chicago,8,71,Georgia Tech,9,60
+1,27,Tennessee,5,56,Oregon St.,12,70
+1,28,Oklahoma St.,4,69,Liberty,13,60
+1,29,San Diego St.,6,62,Syracuse,11,78
+1,30,W. Virginia,3,84,Morehead St.,14,67
+1,31,Clemson,7,56,Rutgers,10,60
+1,32,Houston,2,87,Cleveland St.,15,56
+2,1,Gonzaga,1,87,Oklahoma,8,71
+2,2,Creighton,5,72,Ohio,13,58
+2,3,USC,6,85,Kansas,3,51
+2,4,Oregon,7,95,Iowa,2,80
+2,5,Michigan,1,86,LSU,8,78
+2,6,Colorado,5,53,Florida St.,4,71
+2,7,UCLA,11,67,Abilene Christian,14,47
+2,8,Maryland,10,77,Alabama,2,86
+2,9,Baylor,1,76,Wisconsin,9,63
+2,10,Villanova,5,66,N. Texas,13,61
+2,11,Texas Tech,6,66,Arkansas,3,68
+2,12,Florida,7,78,Oral Roberts,15,81
+2,13,Illinois,1,58,Loyola-Chicago,8,71
+2,14,Oregon St.,12,80,Oklahoma St.,12,80
+2,15,Syracuse,11,75,W. Virginia,3,72
+2,16,Rutgers,10,60,Houston,2,63
+3,1,Gonzaga,1,83,Creighton,5,65
+3,2,USC,6,82,Oregon,7,68
+3,3,Michigan,1,76,Florida St.,4,58
+3,4,UCLA,11,88,Alabama,2,78
+3,5,Baylor,1,76,Villanova,5,51
+3,6,Arkansas,3,72,Oral Roberts,15,70
+3,7,Loyola-Chicago,8,58,Oregon St.,12,65
+3,8,Syracuse,11,46,Houston,2,62
+4,1,Gonzaga,1,85,USC,6,66
+4,2,Michigan,1,49,UCLA,11,51
+4,3,Baylor,1,81,Arkansas,3,72
+4,4,Oregon St.,12,61,Houston,2,67
+5,1,Gonzaga,1,93,UCLA,11,90
+5,2,Baylor,1,78,Houston,2,59
+6,1,Gonzaga,1,70,Baylor,1,86

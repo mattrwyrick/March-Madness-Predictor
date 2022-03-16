@@ -210,8 +210,10 @@ class BracketSimulator(Bracket):
                 team2 = row[5]
                 seed2 = int(row[6])
                 score2 = None
-                overtime = "OT" in row[7] or "OT" in row[4]
-
+                try:
+                    overtime = "OT" in row[7] or "OT" in row[4]
+                except Exception as e:
+                    print(e)
 
                 game = Game(rid, gid, team1, seed1, score1, team2, seed2, score2, overtime)
                 results[rid][gid] = game
