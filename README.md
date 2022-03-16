@@ -32,7 +32,7 @@ Simulation tool to evaluate heuristics for the NCAA Men's March Madness Tourname
 * <b><i>2:15 R1G8</b></i> Duke beat Cal. St. Fullerton
 * <b><i>1:16 R1G9</b></i> Baylor beat Norfolk St.
 * <b><i>8:9 R1G10</b></i> N. Carolina beat Marquette
-* <b><i>5:12 R1G11</b></i> St. Mary's (CA) beat Indiana
+* <b><i>5:12 R1G11</b></i> Indiana beat St. Mary's (CA) - <i>(Manual override)</i>
 * <b><i>4:13 R1G12</b></i> UCLA beat Akron
 * <b><i>6:11 R1G13</b></i> Texas beat Virginia Tech
 * <b><i>3:14 R1G14</b></i> Purdue beat Yale
@@ -59,7 +59,7 @@ Simulation tool to evaluate heuristics for the NCAA Men's March Madness Tourname
 * <b><i>6:3 R2G3</b></i> Texas Tech beat Alabama
 * <b><i>7:2 R2G4</b></i> Duke beat Michigan St.
 * <b><i>1:8 R2G5</b></i> Baylor beat N. Carolina
-* <b><i>5:4 R2G6</b></i> UCLA beat St. Mary's (CA)
+* <b><i>5:4 R2G6</b></i> UCLA beat Indiana
 * <b><i>6:3 R2G7</b></i> Purdue beat Texas
 * <b><i>10:2 R2G8</b></i> Kentucky beat San Francisco
 * <b><i>1:8 R2G9</b></i> Arizona beat Seton Hall
