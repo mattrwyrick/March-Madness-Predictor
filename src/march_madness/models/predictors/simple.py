@@ -36,7 +36,8 @@ class SimpleV2Predictor(Predictor):
         crow_header, crow1 = load_conference_data(self.year, conf1)
         srs1 = trow1[10]
         conf_srs1 = crow1[6]
-        points1 = trow1[8]
+        for_points1 = float(trow1[8])
+        against_points1 = float(trow1[9])
 
         try:
             cname2 = self.index[game.team2][0]
@@ -50,20 +51,27 @@ class SimpleV2Predictor(Predictor):
         try:
             conf_srs2 = crow2[6]
         except Exception as e:
-            pass
+            raise e
 
-        points2 = trow2[8]
+        for_points2 = float(trow2[8])
+        against_points2 = float(trow2[9])
 
         srs1 = float(srs1) if float(srs1) > 0 else 0
         srs2 = float(srs2) if float(srs2) > 0 else 0
         conf_srs1 = float(conf_srs1) if float(conf_srs1) > 0 else 0
         conf_srs2 = float(conf_srs2) if float(conf_srs2) > 0 else 0
+
+        net_points1 = (for_points1 - against_points2)
+        net_points2 = (for_points2 - against_points1)
+
+        points1 = max(for_points1 - net_points1, 1)
+        points2 = max(for_points2 - net_points2, 1)
         points1 = float(points1) if float(points1) > 0 else 0
         points2 = float(points2) if float(points2) > 0 else 0
 
-        w1 = 30.0 # srs team
-        w2 = 10.0  # srs conf
-        w3 = 1.0  # points per game
+        w1 = 10.0 # srs team
+        w2 = 1.0  # srs conf
+        w3 = 5.0  # points per game
 
         total = w1 + w2 + w3
 

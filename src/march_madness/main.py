@@ -18,7 +18,7 @@ if __name__ == "__main__":
     PrinterOverall(years, SimpleV2Predictor)
 
     year = 2026
-    p = SimpleV1Predictor(year)
+    p = SimpleV2Predictor(year)
     bracket = BracketSimulator(year, p)
     results = bracket.simulate_season()
 
@@ -28,7 +28,7 @@ if __name__ == "__main__":
             game = results[rid][gid]
             team1 = game.team1
             team2 = game.team2
-            print(f"{game.seed1}:{game.seed2} {game}")
+            print(f"{game.seed1}:{game.seed2} {game}  ")
 
     print("\n\nUpsets\n")
     for rid in results:
@@ -38,10 +38,10 @@ if __name__ == "__main__":
             team2 = game.team2
             if game.winner == team1:
                 if game.seed1 > game.seed2:
-                    print(f"{game.seed1}:{game.seed2} {game}")
+                    print(f"{game.seed1}:{game.seed2} {game}  ")
             elif game.winner == team2:
                 if game.seed2 > game.seed1:
-                    print(f"{game.seed2}:{game.seed1} {game}")
+                    print(f"{game.seed2}:{game.seed1} {game}  ")
 
 
     check = 1
