@@ -5,73 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="552c8608-eccf-4a13-a24c-a08f2450e403" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/March-Madness-Predictor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/March-Madness-Predictor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/brackets/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/brackets/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/America East Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/America East Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/America East Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/America East Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/American Athletic Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/American Athletic Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/American Athletic Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/American Athletic Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Atlantic 10 Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Atlantic 10 Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Atlantic 10 Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Atlantic 10 Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Atlantic Coast Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Atlantic Coast Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Atlantic Coast Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Atlantic Coast Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Atlantic Sun Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Atlantic Sun Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Atlantic Sun Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Atlantic Sun Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Big 12 Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Big 12 Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Big 12 Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Big 12 Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Big East Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Big East Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Big East Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Big East Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Big Sky Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Big Sky Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Big Sky Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Big Sky Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Big South Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Big South Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Big South Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Big South Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Big Ten Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Big Ten Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Big Ten Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Big Ten Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Big West Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Big West Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Big West Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Big West Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Colonial Athletic Association/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Colonial Athletic Association/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Colonial Athletic Association/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Colonial Athletic Association/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Conference USA/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Conference USA/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Conference USA/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Conference USA/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Horizon League/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Horizon League/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Horizon League/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Horizon League/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Metro Atlantic Athletic Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Metro Atlantic Athletic Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Metro Atlantic Athletic Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Metro Atlantic Athletic Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Mid-American Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Mid-American Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Mid-American Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Mid-American Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Mid-Eastern Athletic Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Mid-Eastern Athletic Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Mid-Eastern Athletic Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Mid-Eastern Athletic Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Missouri Valley Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Missouri Valley Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Missouri Valley Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Missouri Valley Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Mountain West Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Mountain West Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Mountain West Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Mountain West Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Northeast Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Northeast Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Northeast Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Northeast Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Ohio Valley Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Ohio Valley Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Ohio Valley Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Ohio Valley Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Pac-12 Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Pac-12 Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Pac-12 Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Pac-12 Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Patriot League/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Patriot League/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Patriot League/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Patriot League/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Southeastern Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Southeastern Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Southeastern Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Southeastern Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Southern Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Southern Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Southern Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Southern Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Southland Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Southland Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Southland Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Southland Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Southwest Athletic Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Southwest Athletic Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Southwest Athletic Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Southwest Athletic Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Summit League/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Summit League/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Summit League/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Summit League/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Sun Belt Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Sun Belt Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Sun Belt Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Sun Belt Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/West Coast Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/West Coast Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/West Coast Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/West Coast Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Western Athletic Conference/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Western Athletic Conference/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/conferences/Western Athletic Conference/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Western Athletic Conference/2022.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/overall/2020.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/overall/2020.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/overall/2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/overall/2021.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/overall/2022.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/overall/2022.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/brackets/2000.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/brackets/2000.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/brackets/2023.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/brackets/2023.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/brackets/2024.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/brackets/2024.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/brackets/2025.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/brackets/2025.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/conferences/Northeast Conference/2024.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Northeast Conference/2024.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/conferences/Northeast Conference/2025.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Northeast Conference/2025.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/conferences/Southland Conference/2026.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Southland Conference/2026.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/conferences/Southwest Athletic Conference/2026.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/Southwest Athletic Conference/2026.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/conferences/West Coast Conference/2026.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conferences/West Coast Conference/2026.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/indexes/2024.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/indexes/2024.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/overall/2024.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/overall/2024.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/overall/2026.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/overall/2026.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/march_madness/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/march_madness/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/march_madness/models/predictors/simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/march_madness/models/predictors/simple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/march_madness/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/march_madness/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/march_madness/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/march_madness/tools.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,9 +246,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
@@ -329,21 +282,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Debug",
+    "Python.move.executor": "Debug",
+    "Python.tools.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/mattwyrick/Desktop/Projects/March-Madness-Predictor/data/conferences/Western Athletic Conference",
-    "settings.editor.selected.configurable": "preferences.fileTypes"
+    "last_opened_file_path": "/Users/mattwyrick/Desktop/Projects/March-Madness-Predictor/data/overall",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/overall" />
       <recent name="$PROJECT_DIR$/data/conferences/Western Athletic Conference" />
       <recent name="$PROJECT_DIR$/data/conferences/West Coast Conference" />
       <recent name="$PROJECT_DIR$/data/conferences/Trans America Athletic Conference" />
       <recent name="$PROJECT_DIR$/data/conferences/Sun Belt Conference" />
-      <recent name="$PROJECT_DIR$/data/conferences/Summit League" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/brackets" />
       <recent name="$PROJECT_DIR$/src/march_madness" />
       <recent name="$PROJECT_DIR$/data/conferences/Mid-Continent Conference" />
       <recent name="$PROJECT_DIR$/data/conferences/Trans America Athletic Conference" />
@@ -474,6 +431,9 @@
       <window_info anchor="right" id="R Packages" order="4" />
     </layout-to-restore>
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -487,13 +447,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/src/march_madness/models/predictors/simple.py</url>
-          <line>84</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/march_madness/models/predictors/simple.py</url>
-          <line>123</line>
-          <option name="timeStamp" value="14" />
+          <line>129</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

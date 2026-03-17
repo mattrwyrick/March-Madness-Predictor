@@ -1,6 +1,7 @@
 import os
 import csv
 import json
+from os.path import exists
 
 from march_madness.settings import (
     DATA_DIR,
@@ -18,8 +19,18 @@ def get_unit_scores(v1, v2):
     :param v2:
     :return:
     """
-    s1 = (v1 * 1.0) / (1.0 * v1 + 1.0 * v2)
-    s2 = (v2 * 1.0) / (1.0 * v1 + 1.0 * v2)
+    try:
+        s1 = (v1 * 1.0) / (1.0 * v1 + 1.0 * v2)
+    except Exception as e:
+        print(e)
+        s1 = 0
+
+    try:
+        s2 = (v2 * 1.0) / (1.0 * v1 + 1.0 * v2)
+    except Exception as e:
+        print(e)
+        s2 = 0
+
     return s1, s2
 
 

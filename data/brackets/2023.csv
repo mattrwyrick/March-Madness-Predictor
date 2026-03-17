@@ -3,32 +3,32 @@ ROUND,GID,HOME,H SEED,H POINTS,AWAY,A SEED,A POINTS
 1,2,Maryland,8,67,W. Virginia,9,65
 1,3,San Diego St.,5,63,Charleston,12,57
 1,4,Virginia,4,67,Furman,13,68
-1,5,Creighton,6,72,NC St.,11,63
+1,5,Creighton,6,72,NC State,11,63
 1,6,Baylor,3,74,UC Santa Barbara,14,56
 1,7,Missouri,7,76,Utah St.,10,65
 1,8,Arizona,2,93,Princeton,15,59
-1,9,Houston,1,63,Northern Kentucky,16,52
+1,9,Houston,1,63,Northern Ky.,16,52
 1,10,Auburn,9,83,Iowa,8,75
 1,11,Miami (FL),5,63,Drake,12,56
-1,12,Indiana,4,71,Kent St.,13,60
-1,13,Iowa St.,6,59,Pitt,11,41
-1,14,Xavier,3,72,Kennesaw St.,14,67
-1,15,Texas A&M,7,67,Penn St.,10,76
+1,12,Indiana,4,71,Kent State,13,60
+1,13,Iowa St.,6,59,Pittsburgh,11,41
+1,14,Xavier,3,72,Kennesaw State,14,67
+1,15,Texas A&M,7,67,Penn State,10,76
 1,16,Texas,2,81,Colgate,15,61
 1,17,Kansas,1,96,Howard,16,68
 1,18,Arkansas,8,73,Illinois,9,63
-1,19,Saint Mary's,5,63,VCU,12,51
-1,20,UConn,4,87,Iona,13,63
+1,19,St. Mary's (CA),5,63,VCU,12,51
+1,20,Connecticut,4,87,Iona,13,63
 1,21,TCU,6,72,Arizona St.,11,70
 1,22,Gonzaga,3,82,Grand Canyon,14,70
-1,23,Northwestern,7,75,Boise St.,10,67
+1,23,Northwestern,7,75,Boise State,10,67
 1,24,UCLA,2,86,UNC Asheville,15,53
 1,25,Purdue,1,58,Fairleigh Dickinson,16,63
 1,26,Memphis,8,65,Florida Atlantic,9,66
 1,27,Duke,5,74,Oral Roberts,12,51
 1,28,Tennessee,4,58,Louisiana,13,55
 1,29,Kentucky,6,79,Providence,11,80
-1,30,Kansas St.,3,77,Montana St.,14,65
+1,30,Kansas St.,3,77,Montana State,14,65
 1,31,Michigan St.,7,72,USC,10,62
 1,32,Marquette,2,78,Vermont,15,61
 2,1,Alabama,1,73,Maryland,8,51
@@ -38,9 +38,9 @@ ROUND,GID,HOME,H SEED,H POINTS,AWAY,A SEED,A POINTS
 2,5,Houston,1,81,Auburn,9,64
 2,6,Miami (FL),5,85,Indiana,4,69
 2,7,Iowa St.,6,75,Xavier,3,72
-2,8,Penn St.,10,66,Texas,2,71
+2,8,Penn State,10,66,Texas,2,71
 2,9,Kansas,1,71,Arkansas,8,72
-2,10,Saint Mary's,5,55,UConn,4,70
+2,10,St. Mary's (CA),5,55,Connecticut,4,70
 2,11,TCU,6,81,Gonzaga,3,84
 2,12,Northwestern,7,63,UCLA,2,68
 2,13,Fairleigh Dickinson,16,52,Florida Atlantic,9,78
@@ -51,14 +51,14 @@ ROUND,GID,HOME,H SEED,H POINTS,AWAY,A SEED,A POINTS
 3,2,Creighton,6,86,Princeton,15,75
 3,3,Houston,1,75,Miami (FL),5,89
 3,4,Iowa St.,6,61,Texas,2,83
-3,5,Arkansas,8,65,UConn,4,88
+3,5,Arkansas,8,65,Connecticut,4,88
 3,6,Gonzaga,3,68,UCLA,2,76
 3,7,Florida Atlantic,9,62,Tennessee,4,55
 3,8,Kansas St.,3,98,Michigan St.,7,93
 4,1,San Diego St.,5,57,Creighton,6,56
 4,2,Miami (FL),5,59,Texas,2,85
-4,3,UConn,4,82,UCLA,2,64
+4,3,Connecticut,4,82,UCLA,2,64
 4,4,Florida Atlantic,9,79,Kansas St.,3,76
 5,1,San Diego St.,5,72,Florida Atlantic,9,71
-5,2,UConn,4,72,Miami (FL),5,59
-6,1,San Diego St.,5,59,UConn,4,76
+5,2,Connecticut,4,72,Miami (FL),5,59
+6,1,San Diego St.,5,59,Connecticut,4,76

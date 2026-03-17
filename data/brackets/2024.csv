@@ -31,11 +31,11 @@ ROUND,GID,HOME,H SEED,H POINTS,AWAY,A SEED,A POINTS
 1,30,Creighton,3,-1,Akron,14,-1
 1,31,Texas,7,-1,Colorado State,10,-1
 1,32,Tennessee,2,-1,Saint Peter's,15,-1
-2,1,UConn,1,75,Northwestern,9,58
+2,1,Connecticut,1,75,Northwestern,9,58
 2,2,San Diego St.,5,52,Auburn,4,68
 2,3,Duquesne,11,59,Illinois,3,89
 2,4,Washington St.,7,67,Iowa St.,2,75
-2,5,North Carolina,1,85,Michigan St.,9,69
+2,5,N. Carolina,1,85,Michigan St.,9,69
 2,6,Grand Canyon,12,61,Alabama,4,72
 2,7,Clemson,6,64,Baylor,3,72
 2,8,Dayton,7,71,Arizona,2,78
@@ -46,19 +46,19 @@ ROUND,GID,HOME,H SEED,H POINTS,AWAY,A SEED,A POINTS
 2,13,Purdue,1,106,Utah St.,8,67
 2,14,Gonzaga,5,89,Kansas,4,68
 2,15,Oregon,11,73,Creighton,3,86
-2,16,Colorado St.,10,63,Tennessee,2,56
-3,1,UConn,1,82,Auburn,4,52
+2,16,Colorado State,10,63,Tennessee,2,56
+3,1,Connecticut,1,82,Auburn,4,52
 3,2,Illinois,3,72,Iowa St.,2,69
-3,3,North Carolina,1,87,Alabama,4,89
+3,3,N. Carolina,1,87,Alabama,4,89
 3,4,Baylor,3,64,Arizona,2,72
 3,5,Houston,1,54,Duke,4,48
 3,6,NC State,11,76,Colorado,10,73
 3,7,Purdue,1,80,Gonzaga,5,68
-3,8,Creighton,3,72,Colorado St.,10,69
-4,1,UConn,1,77,Illinois,3,52
+3,8,Creighton,3,72,Colorado State,10,69
+4,1,Connecticut,1,77,Illinois,3,52
 4,2,Alabama,4,89,Arizona,2,87
 4,3,Houston,1,41,NC State,11,54
 4,4,Purdue,1,80,Creighton,3,66
-5,1,UConn,1,86,Alabama,4,72
+5,1,Connecticut,1,86,Alabama,4,72
 5,2,NC State,11,63,Purdue,1,66
-6,1,UConn,1,75,Purdue,1,60
+6,1,Connecticut,1,75,Purdue,1,60

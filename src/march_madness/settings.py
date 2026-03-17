@@ -11,7 +11,7 @@ CONFERENCE_WITH_TEAM_DIR = os.path.join(DATA_DIR, "conferences")
 CONFERENCE_OVERALL_DIR = os.path.join(DATA_DIR, "overall")
 INDEX_DIR = os.path.join(DATA_DIR, "indexes")
 
-TEAM_YEARS = list(range(2000, 2023)) + [2024]
+TEAM_YEARS = list(range(2000, 2026)) + [2026]
 
 ACTUAL_EXCLUDE_YEARS = [2020, 2022]
 
