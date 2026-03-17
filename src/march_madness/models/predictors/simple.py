@@ -8,6 +8,7 @@ from march_madness.models.predictors.base import Predictor
 
 class SimpleV2Predictor(Predictor):
 
+
     name = "simple v2"
 
     def __init__(self, year):
@@ -26,28 +27,58 @@ class SimpleV2Predictor(Predictor):
         :param game:
         :return:
         """
-        cname1 = self.index[game.team1][0]
+        try:
+            cname1 = self.index[game.team1][0]
+        except Exception as e:
+            print(e)
         conf1 = self.index[game.team1][1]
         trow_header, trow1 = load_conference_team_data(self.year, conf1, cname1)
         crow_header, crow1 = load_conference_data(self.year, conf1)
         srs1 = trow1[10]
         conf_srs1 = crow1[6]
+        points1 = trow1[8]
 
-        cname2 = self.index[game.team2][0]
+        try:
+            cname2 = self.index[game.team2][0]
+        except Exception as e:
+            print(e)
+
         conf2 = self.index[game.team2][1]
         trow_header, trow2 = load_conference_team_data(self.year, conf2, cname2)
         crow_header, crow2 = load_conference_data(self.year, conf2)
         srs2 = trow2[10]
-        conf_srs2 = crow2[6]
+        try:
+            conf_srs2 = crow2[6]
+        except Exception as e:
+            pass
 
-        srs1 = float(srs1) if srs1 is not None else 0
-        srs2 = float(srs2) if srs2 is not None else 0
-        conf_srs1 = float(conf_srs1) if conf_srs1 is not None else 0
-        conf_srs2 = float(conf_srs2) if conf_srs2 is not None else 0
+        points2 = trow2[8]
 
-        weight = .55
-        score1 = (weight * srs1) + ((1-weight) * conf_srs1)
-        score2 = (weight * srs2) + ((1-weight) * conf_srs2)
+        srs1 = float(srs1) if float(srs1) > 0 else 0
+        srs2 = float(srs2) if float(srs2) > 0 else 0
+        conf_srs1 = float(conf_srs1) if float(conf_srs1) > 0 else 0
+        conf_srs2 = float(conf_srs2) if float(conf_srs2) > 0 else 0
+        points1 = float(points1) if float(points1) > 0 else 0
+        points2 = float(points2) if float(points2) > 0 else 0
+
+        w1 = 30.0 # srs team
+        w2 = 10.0  # srs conf
+        w3 = 1.0  # points per game
+
+        total = w1 + w2 + w3
+
+        w1 = round((w1 / total) * 100.0)
+        w2 = round((w2 / total) * 100.0)
+        w3 = round((w3 / total) * 100.0)
+
+        wt = (w1 + w2 + w3) * 1.0
+
+        srs1_score, srs2_score = get_unit_scores(srs1, srs2)
+        conf_srs1_score, conf_srs2_score = get_unit_scores(conf_srs1, conf_srs2)
+        p1_score, p2_score = get_unit_scores(points1, points2)
+
+        score1 = (w1/wt * srs1_score) + (w2/wt * conf_srs1_score) + (w3/wt * p1_score)
+        score2 = (w1/wt * srs2_score) + (w2/wt * conf_srs2_score) + (w3/wt * p2_score)
 
         if score1 > score2:
             game.score1 = 2
@@ -99,7 +130,11 @@ class SimpleV1Predictor(Predictor):
         trow_header, trow2 = load_conference_team_data(self.year, conf2, cname2)
         crow_header, crow2 = load_conference_data(self.year, conf2)
         srs2 = trow2[10]
-        conf_srs2 = crow2[6]
+        try:
+            conf_srs2 = crow2[6]
+        except Exception as e:
+            pass
+
         points2 = trow2[8]
 
         srs1 = float(srs1) if float(srs1) > 0 else 0

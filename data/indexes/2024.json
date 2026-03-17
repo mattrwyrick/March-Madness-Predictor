@@ -69,7 +69,7 @@
     ],
     "Austin Peay": [
         "Austin Peay",
-        "Ohio Valley Conference"
+        "Atlantic Sun Conference"
     ],
     "Ball State": [
         "Ball State",
@@ -85,7 +85,7 @@
     ],
     "Belmont": [
         "Belmont",
-        "Ohio Valley Conference"
+        "Missouri Valley Conference"
     ],
     "Bethune-Cookman": [
         "Bethune-Cookman",
@@ -117,7 +117,7 @@
     ],
     "Brigham Young": [
         "Brigham Young",
-        "West Coast Conference"
+        "Big 12 Conference"
     ],
     "Brown": [
         "Brown",
@@ -125,7 +125,7 @@
     ],
     "Bryant": [
         "Bryant",
-        "Northeast Conference"
+        "America East Conference"
     ],
     "Bucknell": [
         "Bucknell",
@@ -165,7 +165,7 @@
     ],
     "Campbell": [
         "Campbell",
-        "Big South Conference"
+        "Colonial Athletic Association"
     ],
     "Canisius": [
         "Canisius",
@@ -189,19 +189,15 @@
     ],
     "Charlotte": [
         "Charlotte",
-        "Conference USA"
+        "American Athletic Conference"
     ],
     "Chattanooga": [
         "Chattanooga",
         "Southern Conference"
     ],
-    "Chicago State": [
-        "Chicago State",
-        "Western Athletic Conference"
-    ],
     "Cincinnati": [
         "Cincinnati",
-        "American Athletic Conference"
+        "Big 12 Conference"
     ],
     "Clemson": [
         "Clemson",
@@ -283,10 +279,6 @@
         "Detroit Mercy",
         "Horizon League"
     ],
-    "Dixie State": [
-        "Dixie State",
-        "Western Athletic Conference"
-    ],
     "Drake": [
         "Drake",
         "Missouri Valley Conference"
@@ -335,13 +327,13 @@
         "Evansville",
         "Missouri Valley Conference"
     ],
+    "FDU": [
+        "FDU",
+        "Northeast Conference"
+    ],
     "Fairfield": [
         "Fairfield",
         "Metro Atlantic Athletic Conference"
-    ],
-    "Fairleigh Dickinson": [
-        "Fairleigh Dickinson",
-        "Northeast Conference"
     ],
     "Florida": [
         "Florida",
@@ -353,7 +345,7 @@
     ],
     "Florida Atlantic": [
         "Florida Atlantic",
-        "Conference USA"
+        "American Athletic Conference"
     ],
     "Florida Gulf Coast": [
         "Florida Gulf Coast",
@@ -429,11 +421,7 @@
     ],
     "Hampton": [
         "Hampton",
-        "Big South Conference"
-    ],
-    "Hartford": [
-        "Hartford",
-        "America East Conference"
+        "Colonial Athletic Association"
     ],
     "Harvard": [
         "Harvard",
@@ -457,10 +445,10 @@
     ],
     "Houston": [
         "Houston",
-        "American Athletic Conference"
+        "Big 12 Conference"
     ],
-    "Houston Baptist": [
-        "Houston Baptist",
+    "Houston Christian": [
+        "Houston Christian",
         "Southland Conference"
     ],
     "Howard": [
@@ -489,7 +477,7 @@
     ],
     "Illinois-Chicago": [
         "Illinois-Chicago",
-        "Horizon League"
+        "Missouri Valley Conference"
     ],
     "Incarnate Word": [
         "Incarnate Word",
@@ -525,11 +513,11 @@
     ],
     "Jacksonville State": [
         "Jacksonville State",
-        "Atlantic Sun Conference"
+        "Conference USA"
     ],
     "James Madison": [
         "James Madison",
-        "Colonial Athletic Association"
+        "Sun Belt Conference"
     ],
     "Kansas": [
         "Kansas",
@@ -569,7 +557,11 @@
     ],
     "Lamar": [
         "Lamar",
-        "Western Athletic Conference"
+        "Southland Conference"
+    ],
+    "Le Moyne": [
+        "Le Moyne",
+        "Northeast Conference"
     ],
     "Lehigh": [
         "Lehigh",
@@ -577,7 +569,11 @@
     ],
     "Liberty": [
         "Liberty",
-        "Atlantic Sun Conference"
+        "Conference USA"
+    ],
+    "Lindenwood": [
+        "Lindenwood",
+        "Ohio Valley Conference"
     ],
     "Lipscomb": [
         "Lipscomb",
@@ -585,7 +581,7 @@
     ],
     "Little Rock": [
         "Little Rock",
-        "Sun Belt Conference"
+        "Ohio Valley Conference"
     ],
     "Long Beach State": [
         "Long Beach State",
@@ -625,7 +621,7 @@
     ],
     "Loyola-Chicago": [
         "Loyola (IL)",
-        "Missouri Valley Conference"
+        "Atlantic 10 Conference"
     ],
     "Maine": [
         "Maine",
@@ -645,7 +641,7 @@
     ],
     "Marshall": [
         "Marshall",
-        "Conference USA"
+        "Sun Belt Conference"
     ],
     "Maryland": [
         "Maryland",
@@ -725,7 +721,7 @@
     ],
     "Monmouth": [
         "Monmouth",
-        "Metro Atlantic Athletic Conference"
+        "Colonial Athletic Association"
     ],
     "Montana": [
         "Montana",
@@ -745,11 +741,11 @@
     ],
     "Mt. St. Mary's": [
         "Mount St. Mary's",
-        "Northeast Conference"
+        "Metro Atlantic Athletic Conference"
     ],
     "Murray St.": [
         "Murray State",
-        "Ohio Valley Conference"
+        "Missouri Valley Conference"
     ],
     "N. Carolina": [
         "North Carolina",
@@ -761,7 +757,7 @@
     ],
     "N. Texas": [
         "North Texas",
-        "Conference USA"
+        "American Athletic Conference"
     ],
     "NC State": [
         "NC State",
@@ -797,7 +793,7 @@
     ],
     "New Mexico St.": [
         "New Mexico State",
-        "Western Athletic Conference"
+        "Conference USA"
     ],
     "New Orleans": [
         "New Orleans",
@@ -821,7 +817,7 @@
     ],
     "North Carolina A&T": [
         "North Carolina A&T",
-        "Big South Conference"
+        "Colonial Athletic Association"
     ],
     "North Carolina Central": [
         "North Carolina Central",
@@ -893,7 +889,7 @@
     ],
     "Old Dominion": [
         "Old Dominion",
-        "Conference USA"
+        "Sun Belt Conference"
     ],
     "Ole Miss": [
         "Mississippi",
@@ -963,9 +959,13 @@
         "Purdue",
         "Big Ten Conference"
     ],
-    "Purdue-Fort Wayne": [
-        "Purdue-Fort Wayne",
+    "Purdue Fort Wayne": [
+        "Purdue Fort Wayne",
         "Horizon League"
+    ],
+    "Queens (NC)": [
+        "Queens (NC)",
+        "Atlantic Sun Conference"
     ],
     "Quinnipiac": [
         "Quinnipiac",
@@ -981,7 +981,7 @@
     ],
     "Rice": [
         "Rice",
-        "Conference USA"
+        "American Athletic Conference"
     ],
     "Richmond": [
         "Richmond",
@@ -1023,9 +1023,9 @@
         "Saint Peter's",
         "Metro Atlantic Athletic Conference"
     ],
-    "Sam Houston State": [
-        "Sam Houston State",
-        "Western Athletic Conference"
+    "Sam Houston": [
+        "Sam Houston",
+        "Conference USA"
     ],
     "Samford": [
         "Samford",
@@ -1107,25 +1107,25 @@
         "Southern Illinois-Edwardsville",
         "Ohio Valley Conference"
     ],
+    "Southern Indiana": [
+        "Southern Indiana",
+        "Ohio Valley Conference"
+    ],
     "Southern Methodist": [
         "Southern Methodist",
         "American Athletic Conference"
     ],
     "Southern Mississippi": [
         "Southern Mississippi",
-        "Conference USA"
+        "Sun Belt Conference"
     ],
     "Southern Utah": [
         "Southern Utah",
-        "Big Sky Conference"
+        "Western Athletic Conference"
     ],
     "St. Bonaventure": [
         "St. Bonaventure",
         "Atlantic 10 Conference"
-    ],
-    "St. Francis (NY)": [
-        "St. Francis (NY)",
-        "Northeast Conference"
     ],
     "St. John's (NY)": [
         "St. John's (NY)",
@@ -1139,8 +1139,8 @@
         "Saint Mary's (CA)",
         "West Coast Conference"
     ],
-    "St. Thomas (MN)": [
-        "St. Thomas (MN)",
+    "St. Thomas": [
+        "St. Thomas",
         "Summit League"
     ],
     "Stanford": [
@@ -1155,9 +1155,13 @@
         "Stetson",
         "Atlantic Sun Conference"
     ],
+    "Stonehill": [
+        "Stonehill",
+        "Northeast Conference"
+    ],
     "Stony Brook": [
         "Stony Brook",
-        "America East Conference"
+        "Colonial Athletic Association"
     ],
     "Syracuse": [
         "Syracuse",
@@ -1203,6 +1207,10 @@
         "Texas A&M",
         "Southeastern Conference"
     ],
+    "Texas A&M-Commerce": [
+        "Texas A&M-Commerce",
+        "Southland Conference"
+    ],
     "Texas A&M-Corpus Christi": [
         "Texas A&M-Corpus Christi",
         "Southland Conference"
@@ -1245,7 +1253,7 @@
     ],
     "UAB": [
         "UAB",
-        "Conference USA"
+        "American Athletic Conference"
     ],
     "UC Davis": [
         "UC Davis",
@@ -1268,8 +1276,8 @@
         "Big West Conference"
     ],
     "UCF": [
-        "Central Florida",
-        "American Athletic Conference"
+        "UCF",
+        "Big 12 Conference"
     ],
     "UCLA": [
         "UCLA",
@@ -1297,7 +1305,7 @@
     ],
     "UT Arlington": [
         "UT Arlington",
-        "Sun Belt Conference"
+        "Western Athletic Conference"
     ],
     "UTEP": [
         "UTEP",
@@ -1305,7 +1313,7 @@
     ],
     "UTSA": [
         "UTSA",
-        "Conference USA"
+        "American Athletic Conference"
     ],
     "Utah": [
         "Utah",
@@ -1314,6 +1322,10 @@
     "Utah St.": [
         "Utah State",
         "Mountain West Conference"
+    ],
+    "Utah Tech": [
+        "Utah Tech",
+        "Western Athletic Conference"
     ],
     "Utah Valley": [
         "Utah Valley",
@@ -1381,7 +1393,7 @@
     ],
     "Western Illinois": [
         "Western Illinois",
-        "Summit League"
+        "Ohio Valley Conference"
     ],
     "Western Kentucky": [
         "Western Kentucky",

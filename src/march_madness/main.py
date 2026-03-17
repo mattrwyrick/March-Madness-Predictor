@@ -8,16 +8,16 @@ from march_madness.models.predictors.random import RandomPredictor
 from march_madness.models.predictors.simple import SimpleV1Predictor, SimpleV2Predictor
 
 
-years = [2018, 2019, 2021]
+years = [2018, 2019, 2021, 2022]
 predictors = [RandomPredictor, SimpleV1Predictor, SimpleV2Predictor]
 
 
 if __name__ == "__main__":
     create_team_index()
-    # PrinterOverall(years, SimpleV1Predictor)
-    # PrinterOverall(years, SimpleV2Predictor)
+    PrinterOverall(years, SimpleV1Predictor)
+    PrinterOverall(years, SimpleV2Predictor)
 
-    year = 2022
+    year = 2024
     p = SimpleV1Predictor(year)
     bracket = BracketSimulator(year, p)
     results = bracket.simulate_season()

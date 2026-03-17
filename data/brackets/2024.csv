@@ -1,41 +1,41 @@
 ROUND,GID,HOME,H SEED,H POINTS,AWAY,A SEED,A POINTS
-1,1,UConn,1,91,Stetson,16,52
-1,2,Florida Atlantic,8,65,Northwestern,9,77
-1,3,San Diego State,5,69,UAB,12,65
-1,4,Auburn,4,83,Yale,13,78
-1,5,BYU,6,67,Duquesne,11,71
-1,6,Illinois,3,85,Morehead State,14,69
-1,7,Washington State,7,66,Drake,10,61
-1,8,Iowa State,2,82,South Dakota State,15,65
-1,9,North Carolina,1,90,Wagner,16,62
-1,10,Mississippi State,8,51,Michigan State,9,69
-1,11,Saint Mary's,5,66,Grand Canyon,12,75
-1,12,Alabama,4,109,Charleston,13,96
-1,13,Clemson,6,77,New Mexico,11,56
-1,14,Baylor,3,92,Colgate,14,67
-1,15,Dayton,7,63,Nevada,10,60
-1,16,Arizona,2,85,Long Beach State,15,65
-1,17,Houston,1,86,Longwood,16,46
-1,18,Nebraska,8,77,Texas A&M,9,98
-1,19,James Madison,12,72,Wisconsin,5,61
-1,20,Duke,4,64,Vermont,13,47
-1,21,Texas Tech,6,67,NC State,11,80
-1,22,Kentucky,3,76,Oakland,14,80
-1,23,Florida,7,100,Colorado,10,102
-1,24,Marquette,2,87,Western Kentucky,15,69
-1,25,Purdue,1,78,Grambling,16,50
-1,26,Utah State,8,88,TCU,9,72
-1,27,Gonzaga,5,86,McNeese,12,65
-1,28,Kansas,4,93,Samford,13,89
-1,29,South Carolina,6,79,Oregon,11,87
-1,30,Creighton,3,77,Akron,14,60
-1,31,Texas,7,56,Colorado State,10,67
-1,32,Tennessee,2,83,Saint Peter's,15,49
+1,1,Connecticut,1,-1,Stetson,16,-1
+1,2,Florida Atlantic,8,-1,Northwestern,9,-1
+1,3,San Diego St.,5,-1,UAB,12,-1
+1,4,Auburn,4,-1,Yale,13,-1
+1,5,Brigham Young,6,-1,Duquesne,11,-1
+1,6,Illinois,3,-1,Morehead St.,14,-1
+1,7,Washington State,7,-1,Drake,10,-1
+1,8,Iowa St.,2,-1,S. Dakota St.,15,-1
+1,9,N. Carolina,1,-1,Wagner,16,-1
+1,10,Mississippi St.,8,-1,Michigan St.,9,-1
+1,11,St. Mary's (CA),5,-1,Grand Canyon,12,-1
+1,12,Alabama,4,-1,College of Charleston,13,-1
+1,13,Clemson,6,-1,New Mexico,11,-1
+1,14,Baylor,3,-1,Colgate,14,-1
+1,15,Dayton,7,-1,Nevada,10,-1
+1,16,Arizona,2,-1,Long Beach State,15,-1
+1,17,Houston,1,-1,Longwood,16,-1
+1,18,Nebraska,8,-1,Texas A&M,9,-1
+1,19,Wisconsin,5,-1,James Madison,12,-1
+1,20,Duke,4,-1,Vermont,13,-1
+1,21,Texas Tech,6,-1,NC State,11,-1
+1,22,Kentucky,3,-1,Oakland,14,-1
+1,23,Florida,7,-1,Boise State,10,-1
+1,24,Marquette,2,-1,Western Kentucky,15,-1
+1,25,Purdue,1,-1,Grambling,16,-1
+1,26,Utah St.,8,-1,TCU,9,-1
+1,27,Gonzaga,5,-1,McNeese State,12,-1
+1,28,Kansas,4,-1,Samford,13,-1
+1,29,South Carolina,6,-1,Oregon,11,-1
+1,30,Creighton,3,-1,Akron,14,-1
+1,31,Texas,7,-1,Colorado State,10,-1
+1,32,Tennessee,2,-1,Saint Peter's,15,-1
 2,1,UConn,1,75,Northwestern,9,58
-2,2,San Diego State,5,52,Auburn,4,68
+2,2,San Diego St.,5,52,Auburn,4,68
 2,3,Duquesne,11,59,Illinois,3,89
-2,4,Washington State,7,67,Iowa State,2,75
-2,5,North Carolina,1,85,Michigan State,9,69
+2,4,Washington St.,7,67,Iowa St.,2,75
+2,5,North Carolina,1,85,Michigan St.,9,69
 2,6,Grand Canyon,12,61,Alabama,4,72
 2,7,Clemson,6,64,Baylor,3,72
 2,8,Dayton,7,71,Arizona,2,78
@@ -43,18 +43,18 @@ ROUND,GID,HOME,H SEED,H POINTS,AWAY,A SEED,A POINTS
 2,10,James Madison,12,55,Duke,4,93
 2,11,NC State,11,79,Oakland,14,73
 2,12,Colorado,10,102,Marquette,2,95
-2,13,Purdue,1,106,Utah State,8,67
+2,13,Purdue,1,106,Utah St.,8,67
 2,14,Gonzaga,5,89,Kansas,4,68
 2,15,Oregon,11,73,Creighton,3,86
-2,16,Colorado State,10,63,Tennessee,2,56
+2,16,Colorado St.,10,63,Tennessee,2,56
 3,1,UConn,1,82,Auburn,4,52
-3,2,Illinois,3,72,Iowa State,2,69
+3,2,Illinois,3,72,Iowa St.,2,69
 3,3,North Carolina,1,87,Alabama,4,89
 3,4,Baylor,3,64,Arizona,2,72
 3,5,Houston,1,54,Duke,4,48
 3,6,NC State,11,76,Colorado,10,73
 3,7,Purdue,1,80,Gonzaga,5,68
-3,8,Creighton,3,72,Colorado State,10,69
+3,8,Creighton,3,72,Colorado St.,10,69
 4,1,UConn,1,77,Illinois,3,52
 4,2,Alabama,4,89,Arizona,2,87
 4,3,Houston,1,41,NC State,11,54
