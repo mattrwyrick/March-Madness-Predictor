@@ -1,36 +1,36 @@
 ROUND,GID,HOME,H SEED,H POINTS,AWAY,A SEED,A POINTS
-1,1,Duke,1,-1,Long Island University/Siena,16,-1
-1,2,Villanova,8,-1,Utah St.,9,-1
-1,3,Vanderbilt,5,-1,Akron,12,-1
-1,4,Alabama,4,-1,California Baptist,13,-1
-1,5,N. Carolina,6,-1,NC State/Texas,11,-1
-1,6,Gonzaga,3,-1,Wright St.,14,-1
-1,7,Miami (FL),7,-1,Santa Clara,10,-1
-1,8,Connecticut,2,-1,Tennessee State,15,-1
-1,9,Arizona,1,-1,Howard/UMBC,16,-1
-1,10,Clemson,8,-1,TCU,9,-1
-1,11,St. John's (NY),5,-1,Northern Iowa,12,-1
-1,12,Nebraska,4,-1,Hofstra,13,-1
-1,13,Tennessee,6,-1,Southern Methodist/Miami (OH),11,-1
-1,14,Illinois,3,-1,Pennsylvania,14,-1
-1,15,St. Mary's (CA),7,-1,UCF,10,-1
-1,16,Iowa St.,2,-1,Idaho,15,-1
-1,17,Michigan,1,-1,Lehigh/Prairie View,16,-1
-1,18,Ohio St.,8,-1,St. Louis,9,-1
-1,19,Texas Tech,5,-1,High Point,12,-1
-1,20,Kansas,4,-1,Troy,13,-1
-1,21,Louisville,6,-1,VCU,11,-1
-1,22,Virginia,3,-1,N. Dakota St.,14,-1
-1,23,Kentucky,7,-1,Missouri,10,-1
-1,24,Purdue,2,-1,Furman,15,-1
-1,25,Florida,1,-1,Siena/Long Island University,16,-1
-1,26,Georgia,8,-1,Iowa,9,-1
-1,27,Wisconsin,5,-1,McNeese State,12,-1
-1,28,Arkansas,4,-1,Hawaii,13,-1
-1,29,Brigham Young,6,-1,South Florida,11,-1
-1,30,Michigan St.,3,-1,Kennesaw State,14,-1
-1,31,UCLA,7,-1,Texas A&M,10,-1
-1,32,Houston,2,-1,Queens (NC),15,-1
+1,1,Duke,1,-1,Siena,16,-1
+1,2,Ohio St.,8,-1,TCU,9,-1
+1,3,St. John's (NY),5,-1,Northern Iowa,12,-1
+1,4,Kansas,4,-1,California Baptist,13,-1
+1,5,Louisville,6,-1,South Florida,11,-1
+1,6,Michigan St.,3,-1,N. Dakota St.,14,-1
+1,7,UCLA,7,-1,UCF,10,-1
+1,8,Connecticut,2,-1,Furman,15,-1
+1,9,Arizona,1,-1,Long Island University,16,-1
+1,10,Villanova,8,-1,Utah St.,9,-1
+1,11,Wisconsin,5,-1,High Point,12,-1
+1,12,Arkansas,4,-1,Hawaii,13,-1
+1,13,Brigham Young,6,-1,Texas,11,-1
+1,14,Gonzaga,3,-1,Kennesaw State,14,-1
+1,15,Miami (FL),7,-1,Missouri,10,-1
+1,16,Purdue,2,-1,Queens (NC),15,-1
+1,17,Florida,1,-1,Prairie View,16,-1
+1,18,Clemson,8,-1,Iowa,9,-1
+1,19,Vanderbilt,5,-1,McNeese State,12,-1
+1,20,Nebraska,4,-1,Troy,13,-1
+1,21,N. Carolina,6,-1,VCU,11,-1
+1,22,Illinois,3,-1,Pennsylvania,14,-1
+1,23,St. Mary's (CA),7,-1,Texas A&M,10,-1
+1,24,Houston,2,-1,Idaho,15,-1
+1,25,Michigan,1,-1,Howard,16,-1
+1,26,Georgia,8,-1,St. Louis,9,-1
+1,27,Texas Tech,5,-1,Akron,12,-1
+1,28,Alabama,4,-1,Hofstra,13,-1
+1,29,Tennessee,6,-1,Miami (OH),11,-1
+1,30,Virginia,3,-1,Wright St.,14,-1
+1,31,Kentucky,7,-1,Santa Clara,10,-1
+1,32,Iowa St.,2,-1,Tennessee State,15,-1
 2,1,,,,,,,
 2,2,,,,,,,
 2,3,,,,,,,
